@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Shumway",
-  "version": "SHUMWAY_VERSION",
+  "version": "(SHUMWAY_VERSION)",
   "description": "Shumway is an HTML5 technology experiment that explores building a faithful and efficient renderer for the SWF file format without native code assistance. See http://areweflashyet.com/extension/license.txt for license information.",
   "icons": {
     "48": "icon.png"
